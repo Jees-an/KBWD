@@ -25,7 +25,11 @@
 - 〈혼성어 DB〉에서 추출한 음절 N-Gram을 통해 새로운 혼성어를 탐지하는 규칙 기반 알고리즘 예시입니다.<br>
 👉 [Google Colab 예제 바로가기](https://colab.research.google.com/drive/1DR9yHMDdAt9SfD0It69qLx1oAB2rFGPG?usp=sharing) 
 
-## 5. 사사표기
+## 5. 혼성어 자동 탐지 알고리즘
+
+- Google Vertex AI에 기반한 혼성어 자동 탐지 알고리즘도 곧 공개될 예정입니다!<br>
+
+## 6. 사사표기
 
 - <한국어 혼성어 자동 탐지를 위한 언어공학적 연구>(2025년 한국연구재단 인문사회학술연구교수 B유형)
 - 이 논문은 2025년 대한민국 교육부와 한국연구재단의 지원을 받아 수행된 연구임 (NRF-2025S1A5B5A17018170)
