@@ -22,7 +22,7 @@
 
 ## 4. 혼성어 음절 N-Gram을 활용한 규칙 기반 혼성어 탐지
 
-- 〈혼성어 DB〉의 표제어 목록에서 추출한 음절 N-Gram을 통해 새로운 혼성어를 탐지하는 규칙 기반 알고리즘 예시입니다.
+- 〈혼성어 DB〉에서 추출한 음절 N-Gram을 통해 새로운 혼성어를 탐지하는 규칙 기반 알고리즘 예시입니다.<br>
 👉 [Google Colab 예제 바로가기](https://colab.research.google.com/drive/1DR9yHMDdAt9SfD0It69qLx1oAB2rFGPG?usp=sharing) 
 
 ## 5. 사사표기
