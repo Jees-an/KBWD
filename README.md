@@ -20,7 +20,7 @@
 
 ![혼성어 타입 빈도 추이 예시)](img/그림3.jpg)
 
-## 4. 혼성어 음절 N-Gram을 활용한 규칙 기반 혼성어 탐지
+## 4. 혼성어 음절 N-Gram을 활용한 규칙 기반 추출
 
 - 〈혼성어 DB〉에서 추출한 음절 N-Gram을 통해 새로운 혼성어를 탐지하는 규칙 기반 알고리즘 예시입니다.<br>
 👉 [Google Colab 예제 바로가기](https://colab.research.google.com/drive/1DR9yHMDdAt9SfD0It69qLx1oAB2rFGPG?usp=sharing) 
